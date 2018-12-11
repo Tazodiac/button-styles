@@ -48,3 +48,27 @@ div {
 .btn-small {
   font-size: .875rem;
 }
+
+.btn-ghost:hover {
+  background-color: #666;
+  color: #fff;
+  border-color: #666;
+}
+
+.btn:hover {
+  background-color: #000;
+  color: #fff;
+  border-color: #000;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
+  color: #fff;
+  border-color: #666;
+}
+
+.btn-warning:hover {
+  background-color: #933;
+  color: #fff;
+  border-color: #933;
+}
